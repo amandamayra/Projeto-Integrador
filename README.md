@@ -1,5 +1,11 @@
 # Projeto-Integrador
 Projeto Integrador do Curso de Extensão de Data Engineer e Big Data
+A Ingestão na camada raw foi feita manualmente atraves do arquivo baixado do [Kaggle](https://www.kaggle.com/datasets/hhs/health-insurance-marketplace/data)
+
+Necessario que seja feito a criação da pipeline no lab, antes de executar os scripts
+- 3 buckets - um para cada camada
+- Um banco de dados RDS-MySQL
+- Configuração de um EC2 para leitura do s3 e gravar as tabelas no banco
 
 ## 📊 Dashboard Power BI
 
